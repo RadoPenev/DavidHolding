@@ -1,0 +1,8 @@
+C:\Users\galin\source\repos\Homework 05.07.2022 2\Homework 05.07.2022 2\bin\Debug\Homework 05.07.2022 3.exe.config
+C:\Users\galin\source\repos\Homework 05.07.2022 2\Homework 05.07.2022 2\bin\Debug\Homework 05.07.2022 3.exe
+C:\Users\galin\source\repos\Homework 05.07.2022 2\Homework 05.07.2022 2\bin\Debug\Homework 05.07.2022 3.pdb
+C:\Users\galin\source\repos\Homework 05.07.2022 2\Homework 05.07.2022 2\obj\Debug\Homework 05.07.2022 4.csproj.AssemblyReference.cache
+C:\Users\galin\source\repos\Homework 05.07.2022 2\Homework 05.07.2022 2\obj\Debug\Homework 05.07.2022 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\galin\source\repos\Homework 05.07.2022 2\Homework 05.07.2022 2\obj\Debug\Homework 05.07.2022 4.csproj.CoreCompileInputs.cache
+C:\Users\galin\source\repos\Homework 05.07.2022 2\Homework 05.07.2022 2\obj\Debug\Homework 05.07.2022 3.exe
+C:\Users\galin\source\repos\Homework 05.07.2022 2\Homework 05.07.2022 2\obj\Debug\Homework 05.07.2022 3.pdb

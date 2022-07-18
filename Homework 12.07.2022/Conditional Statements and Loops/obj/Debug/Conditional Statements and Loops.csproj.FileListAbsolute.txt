@@ -1,0 +1,8 @@
+C:\Users\galin\source\repos\Homework 12.07.2022\Conditional Statements and Loops\bin\Debug\Conditional Statements and Loops.exe.config
+C:\Users\galin\source\repos\Homework 12.07.2022\Conditional Statements and Loops\bin\Debug\Conditional Statements and Loops.exe
+C:\Users\galin\source\repos\Homework 12.07.2022\Conditional Statements and Loops\bin\Debug\Conditional Statements and Loops.pdb
+C:\Users\galin\source\repos\Homework 12.07.2022\Conditional Statements and Loops\obj\Debug\Conditional Statements and Loops.csproj.AssemblyReference.cache
+C:\Users\galin\source\repos\Homework 12.07.2022\Conditional Statements and Loops\obj\Debug\Conditional Statements and Loops.csproj.SuggestedBindingRedirects.cache
+C:\Users\galin\source\repos\Homework 12.07.2022\Conditional Statements and Loops\obj\Debug\Conditional Statements and Loops.csproj.CoreCompileInputs.cache
+C:\Users\galin\source\repos\Homework 12.07.2022\Conditional Statements and Loops\obj\Debug\Conditional Statements and Loops.exe
+C:\Users\galin\source\repos\Homework 12.07.2022\Conditional Statements and Loops\obj\Debug\Conditional Statements and Loops.pdb
